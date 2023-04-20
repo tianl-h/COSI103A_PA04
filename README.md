@@ -12,7 +12,8 @@ To get started with the Transaction App, follow these steps:
 
 1. Clone the repository:
   git clone https://github.com/tianl-h/COSI103A_PA04.git  
-  cd COSI103A_PA04
+  cd COSI103A_PA04 
+  cd myapp
   
 2. Install the necessary dependencies:
   npm install
